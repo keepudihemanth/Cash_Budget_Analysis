@@ -1,11 +1,4 @@
-Great! Since you’ve also uploaded:
 
-* `cash_budget_analysis.py` – a Python script to visualize HCL Tech’s cash budget data.
-* `requirments.txt` – listing `matplotlib` as a dependency.
-
-Here’s the updated **README** with instructions to include and use these files in the GitHub repository:
-
----
 
 ## 📊 Cash Budget Analysis of HCL Technologies
 
