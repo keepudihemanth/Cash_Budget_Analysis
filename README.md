@@ -2,7 +2,7 @@
 
 ## 📊 Cash Budget Analysis of HCL Technologies
 
-This repository contains a project report and supporting code for **Cash Budget Analysis of HCL Technologies Ltd.**, submitted as part of the academic requirements for the M.Tech Integrated program.
+This repository contains a project report and supporting code for **Cash Budget Analysis of HCL Technologies Ltd.**, submitted as part of the academic requirements.
 
 ---
 
